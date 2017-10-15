@@ -6,6 +6,6 @@ public class ForeachTest {
 	  for(int temp : data){
 	      System.out.print(temp);
 	  }
-	  //测试linux下的文件远程传输
+	  //测试linux下的文件远程传输。。。。。   测试
    }
 }
